@@ -94,6 +94,3 @@ Made by Rance Andrei Baguio
 
 GitHub: [GITHUB_LINK](https://github.com/Baguio-creator)
 
-Made by YOUR_NAME
-
-GitHub: YOUR_GITHUB_LINK
